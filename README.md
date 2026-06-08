@@ -19,13 +19,17 @@ Meteo Dashboard to nowoczesna aplikacja pogodowa na komputery osobiste, zbudowan
 
 ## Zrzuty ekranu
 
-*(Podmień poniższe ścieżki na własne zrzuty zrobione podczas działania aplikacji na prezentację!)*
 
 ### Tryb Ciemny (AMOLED & Deep Blue-Grey)
-> ![Tryb Ciemny](assets/screenshot_dark.png)
+> ![Tryb Ciemny](assets/ciemny.png)
 
 ### Tryb Jasny (Soft Material 3)
-> ![Tryb Jasny](assets/screenshot_light.png)
+> ![Tryb Jasny](assets/jasny.png)
+
+### Interaktywny Tutorial (Wyspa informacyjna)
+> ![Tutorial - Krok 1](assets/tutorial1.png)
+> ![Tutorial - Krok 2](assets/tutorial2.png)
+> ![Tutorial - Krok 3](assets/tutorial3.png)
 
 ---
 
